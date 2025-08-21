@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------------------------
+@"Driver={SQLite3 ODBC Driver};Database=C:\Users\gerpr\AppData\Local\PIX\Projects\PruebaTecnica2025\BD\Productos.db;"
+
+"System.Data.Odbc"
+-----------------------------------------------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS Productos 
+(id INTEGER PRIMARY KEY
+, title TEXT
+, price REAL
+, category TEXT
+, description TEXT
+, fecha_insercion TEXT DEFAULT (datetime('now', 'localtime'))
+)
