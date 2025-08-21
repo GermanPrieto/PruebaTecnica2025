@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prueba Técnica 2025 - RPA con PIX
 
 Este proyecto implementa un flujo de automatización en **PIX Studio** que realiza las siguientes tareas:
@@ -82,3 +83,6 @@ PruebaTecnica2025/
 ## Autor
 German Andres Prieto Cardenas  
 Agosto 2025
+=======
+# PruebaTecnica2025
+>>>>>>> 45dfe0038a1bcb1e13b65a982bd994ba6aaacc6c
